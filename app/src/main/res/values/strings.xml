@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OhmLawSimpleCircle</string>
+    <string name="lawimage">lawImage</string>
+    <string name="enter_circuit_parameters_an_press_on_image">Enter circuit parameters an press on image</string>
+    <string name="i">I=</string>
+    <string name="r">r=</string>
+    <string name="u">U=</string>
+    <string name="rR">R=</string>
+</resources>
